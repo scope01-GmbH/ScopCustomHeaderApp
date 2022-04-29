@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/shopware/platform/trunk/src/Core/Framework/App/Manifest/Schema/manifest-1.0.xsd">
+    <meta>
+        <name>ScopCustomHeaderApp</name>
+        <label>Info Panel header</label>
+        <label lang="de-DE">Info Panel header</label>
+        <description></description>
+        <description lang="de-DE"></description>
+        <author>scope01 GmbH</author>
+        <copyright>(c) by scope01 GmbH</copyright>
+        <version>1.0.0</version>
+        <icon>Resources/config/plugin.png</icon>
+        <license>MIT</license>
+    </meta>
+</manifest>
